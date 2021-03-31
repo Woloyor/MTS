@@ -26,3 +26,4 @@ Expense Analytics are also provided using graphs.</ul>
   <li>Crosspaltform language EN/UA - English/Ukraine
   <li>Add some fisha which you will recomend :D </ol>
  
+
