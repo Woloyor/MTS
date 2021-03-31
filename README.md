@@ -1,4 +1,4 @@
-# MTS
+# MONEY TRACKER SYSTEM
 Money Tracker System  - i'ts simple personal acounting programm has been designed as an APP to track personal expenses of a user and also to track and split expenses among a group of people. The people splitting expenses using the app may or maynot be the users of the APP.
 <ul><li>Creating a group of people to share expenses with. People added to the group may or maynot be users of the APP
 <li>Creating expenses- Expense can be personal to the app user, or can be split with other users of group.
