@@ -9,7 +9,7 @@ Money Tracker System  - i'ts simple personal acounting programm has been designe
 <li>At any point in time, an APP user can query the expenses based on various filtering criteria.
 Expense Analytics are also provided using graphs.</ul>
 <h1>Getting Started</h1>
-<ol>Install Android Studio if it's not pre installed.
+<ol><li>Install Android Studio if it's not pre installed.
 <li>Clone the repository https://github.com/Woloyour/MTS to your local machine.
 <li>Import the project in android studio.
 <li>Make sure you have latest dependencies in gradle files.
