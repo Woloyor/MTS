@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "624590626513",
+    "project_id": "money-tracker-system",
+    "storage_bucket": "money-tracker-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624590626513:android:2b88ecdb815f95c76a6ff0",
+        "android_client_info": {
+          "package_name": "com.example.MTS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624590626513-mv2679peb19rcc4kb8dcs327a5gp8mv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.MTS",
+            "certificate_hash": "19b06316bab58bebfaf33cd3683f251c57a2a7f5"
+          }
+        },
+        {
+          "client_id": "624590626513-0gfldrpl4gubn412sq1a0vq7dslo04ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39GrIjqsMVF5yPt5UZesgGYs_spsP2rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624590626513-0gfldrpl4gubn412sq1a0vq7dslo04ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624590626513:android:b7261bfb2012af136a6ff0",
+        "android_client_info": {
+          "package_name": "com.example.moneytrakingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624590626513-0gfldrpl4gubn412sq1a0vq7dslo04ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39GrIjqsMVF5yPt5UZesgGYs_spsP2rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624590626513-0gfldrpl4gubn412sq1a0vq7dslo04ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
