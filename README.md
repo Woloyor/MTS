@@ -15,7 +15,7 @@ Expense Analytics are also provided using graphs.</ul>
 <li>Make sure you have latest dependencies in gradle files.
 <li>Connect the application to Firebase-Cloud Firestore database. You can do it in two ways.
 <li>Recommended way is to connect it from within Android Studio. Go to Tools>Firebase and follow the instructions.
-<li>Nither way is to use the Firebase console (https://console.firebase.google.com). To add a sample app to a Firebase project, use the applicationId value specified in the <li>app/build.gradle file of the app as the Android package name. Download the generated google-services.json file, and copy it to the app/ directory of the sample you wish to run.
+<li>Other way is to use the Firebase console (https://console.firebase.google.com). To add a sample app to a Firebase project, use the applicationId value specified in the app/build.gradle file of the app as the Android package name. Download the generated google-services.json file, and copy it to the app/ directory of the sample you wish to run.
 <li>Firebase console, open the Database section and create indexes as describe in Prerequisites.
 <li>n Firebase console, open the Authentication section and enable the sign-in methods. (Email-password and Google sign in)
 <li>Once the application is connected to Firebase all is set to build/run. </ol>
