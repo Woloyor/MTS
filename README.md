@@ -19,3 +19,17 @@ Expense Analytics are also provided using graphs.</ul>
 <li>Firebase console, open the Database section and create indexes as describe in Prerequisites.
 <li>n Firebase console, open the Authentication section and enable the sign-in methods. (Email-password and Google sign in)
 <li>Once the application is connected to Firebase all is set to build/run. </ol>
+<h1>Need to create</h1>
+  <ul><li>Analytics...Google Analytics
+  <li>Histroty...History of expenses
+  <li>Desing...Try to make project better
+  <li>Crosspaltform language EN/UA - English/Ukraine
+  <li>Add some fisha which you will recomend :D </ol>
+  
+<h1>Alredy have and testing</h1>
+![Animation](https://user-images.githubusercontent.com/48721796/113218578-715c1600-9288-11eb-983f-696d81c7f353.png)
+![Loginю](https://user-images.githubusercontent.com/48721796/113218591-77ea8d80-9288-11eb-9267-0df9f180bef9.png)
+![Screenshot_4](https://user-images.githubusercontent.com/48721796/113218599-7caf4180-9288-11eb-9a09-709255c508a5.png)
+![Month](https://user-images.githubusercontent.com/48721796/113218606-7faa3200-9288-11eb-8541-3109d230f307.png)
+![Screenshot_5](https://user-images.githubusercontent.com/48721796/113218618-85077c80-9288-11eb-9bed-daeea9eee04e.png)
+![Screenshot_7](https://user-images.githubusercontent.com/48721796/113218627-86d14000-9288-11eb-950b-8023530529e6.png)
