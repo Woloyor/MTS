@@ -26,11 +26,3 @@ Expense Analytics are also provided using graphs.</ul>
   <li>Crosspaltform language EN/UA - English/Ukraine
   <li>Add some fisha which you will recomend :D </ol>
 
-
- <h1>Alredy have and testing</h1>
-![Screenshot_4](https://user-images.githubusercontent.com/48721796/113220073-40311500-928b-11eb-90ba-1b2b091b84cf.png)
-![Screenshot_5](https://user-images.githubusercontent.com/48721796/113220077-40c9ab80-928b-11eb-92b4-347f5474c93f.png)
-![Screenshot_6](https://user-images.githubusercontent.com/48721796/113220080-41fad880-928b-11eb-825a-f6f80c53af99.png)
-![Screenshot_7](https://user-images.githubusercontent.com/48721796/113220082-432c0580-928b-11eb-866b-faaeefc6dedc.png)
-![Screenshot_8](https://user-images.githubusercontent.com/48721796/113220087-445d3280-928b-11eb-8948-08077ef37e93.png)
-![Screenshot_9](https://user-images.githubusercontent.com/48721796/113220093-458e5f80-928b-11eb-953f-fd1e42c53f0f.png)
